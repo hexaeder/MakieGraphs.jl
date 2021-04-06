@@ -1,0 +1,13 @@
+name = "MakieGraphs"
+uuid = "4b10b7cb-6ece-4236-9085-41d44b9a9f4d"
+authors = ["Hans Würfel <git@wuerfel.io> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
