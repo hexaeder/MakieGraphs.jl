@@ -1,6 +1,8 @@
 using MakieGraphs
 using Test
 
-@testset "MakieGraphs.jl" begin
-    # Write your tests here.
-end
+using GLMakie
+using GraphPlot
+using LightGraphs
+
+println("nothing here yet")
